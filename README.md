@@ -1,4 +1,4 @@
-## Hi and welcome to 🎀**Dhummy's Effect Pack**🎀 (v1.0)
+# Hi and welcome to 🎀**Dhummy's Effect Pack**🎀 (v1.0)
 ### In this quick guide, we'll explore the basics of my simple effect pack, which includes a few fun and useful effects to enhance your website or application. Let's dive in!
 
 # Effect Pack Basics
